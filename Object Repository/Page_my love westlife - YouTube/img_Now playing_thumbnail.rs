@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Now playing_thumbnail</name>
+   <tag></tag>
+   <elementGuidId>27808e61-8ae4-4a2e-abd6-0907b8915b85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@id='thumbnail']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ytd-moving-thumbnail-renderer.style-scope.ytd-thumbnail > #thumbnail</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>thumbnail</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-moving-thumbnail-renderer fade-in</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://i.ytimg.com/an_webp/ulOb9gIGGd0/mqdefault_6s.webp?du=3000&amp;sqp=CMyMgYYG&amp;rs=AOn4CLAgnPssQIxZc_O6JHSjiT0UJe2rYw</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-manager&quot;)/ytd-search[@class=&quot;style-scope ytd-page-manager&quot;]/div[@id=&quot;container&quot;]/ytd-two-column-search-results-renderer[@class=&quot;style-scope ytd-search&quot;]/div[@id=&quot;primary&quot;]/ytd-section-list-renderer[@class=&quot;style-scope ytd-two-column-search-results-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-item-section-renderer[@class=&quot;style-scope ytd-section-list-renderer&quot;]/div[@id=&quot;contents&quot;]/ytd-video-renderer[@class=&quot;style-scope ytd-item-section-renderer&quot;]/div[@id=&quot;dismissible&quot;]/ytd-thumbnail[@class=&quot;style-scope ytd-video-renderer&quot;]/a[@id=&quot;thumbnail&quot;]/div[@id=&quot;mouseover-overlay&quot;]/ytd-moving-thumbnail-renderer[@class=&quot;style-scope ytd-thumbnail&quot;]/img[@id=&quot;thumbnail&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//img[@id='thumbnail']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mouseover-overlay']/ytd-moving-thumbnail-renderer/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://i.ytimg.com/an_webp/ulOb9gIGGd0/mqdefault_6s.webp?du=3000&amp;sqp=CMyMgYYG&amp;rs=AOn4CLAgnPssQIxZc_O6JHSjiT0UJe2rYw')]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ytd-moving-thumbnail-renderer/img</value>
+   </webElementXpaths>
+</WebElementEntity>
